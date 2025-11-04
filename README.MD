@@ -13,3 +13,6 @@
 ### Rodar sua API
 
     uvicorn main:app --reload
+
+### Sair do venv
+    deactivate
