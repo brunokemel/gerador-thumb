@@ -1,3 +1,7 @@
 venv
 
 node_modules
+
+thumbnails
+
+__pycache__
